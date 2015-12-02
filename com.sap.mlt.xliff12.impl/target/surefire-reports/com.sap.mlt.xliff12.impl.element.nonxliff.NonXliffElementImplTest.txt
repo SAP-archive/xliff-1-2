@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.sap.mlt.xliff12.impl.element.nonxliff.NonXliffElementImplTest
--------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec

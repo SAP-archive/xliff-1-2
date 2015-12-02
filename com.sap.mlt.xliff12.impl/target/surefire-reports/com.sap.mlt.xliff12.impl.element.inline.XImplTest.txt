@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.sap.mlt.xliff12.impl.element.inline.XImplTest
--------------------------------------------------------------------------------
-Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec
