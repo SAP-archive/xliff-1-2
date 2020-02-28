@@ -1,4 +1,10 @@
-#Xliff 1.2
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+# Important Notice
+We have decided to stop the maintenance of this public GitHub repository.
+
+
+# Xliff 1.2
 
 The XML Localisation Interchange File Format (XLIFF) version 1.2 and 2.0 are OASIS Standards. XLIFF is the outcome of contributors from eg. from IBM, Lionbridge, Oracle and ... SAP. SAP Language Services has been contributing (to 1.2 by participation in the XLIFF Technical Committee at OASIS). 
 
